@@ -57,11 +57,11 @@ body{
     height:100px;
     margin-right: 100px;
 }
-.about_top{
+
+.contact_top{
     margin-right: 500px;
 }
-
-.contact_top:hover{
+.about_top:hover{
     color:#cfcd68;
 }
 .button_click {
